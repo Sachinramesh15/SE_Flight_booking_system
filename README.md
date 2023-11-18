@@ -12,7 +12,6 @@ A flight booking Django application written in Python, HTML, CSS & Javascript fo
 7. As-you-type Search
 
 ### Files & Directories
-  - `capstone` - project directory.
     - `utils.py` - Contains all Django helper functions used in views.py.
     - `urls.py` - This file handles all the URLs of the project.
   - `flight` - main application directory.
