@@ -1,6 +1,6 @@
 # SE_Flight_booking_system
-A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for CS50's Web Programming with Python and Javascript.
+A flight booking Django application written in Python, HTML, CSS & Javascript for Software Engineering UE21CS341A.
+
 
 ### Features
 1. Users can create their user account.
