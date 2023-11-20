@@ -36,8 +36,7 @@ A flight booking Django application written in Python, HTML, CSS & Javascript fo
     - `urls.py` - This file handles all the URLs of the web application.
     - `views.py` - This file contains all the application views.
     - `constant.py` - This file contains the fee amount which is charged to the user for booking flight tickets.
-  - `requirements.txt` - This file contains all contains all the python packages that needs to be installed to run this web application.
-  - `manage.py` - This file is used basically as a command-line utility and for deploying, debugging, or running
+ 
 
 #running the project
 
